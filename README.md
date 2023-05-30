@@ -1,4 +1,4 @@
-derekvasilich/docker-node
+derekvasilich/docker-java
 =========================
 
 ![docker_logo](https://raw.githubusercontent.com/derekvasilich/docker-lamp/master/docker_139x115.png)
