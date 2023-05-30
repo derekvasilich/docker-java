@@ -7,7 +7,7 @@ derekvasilich/docker-java
 [![Docker Build Status](https://img.shields.io/docker/build/derekvasilich/lamp.svg?style=plastic)](https://hub.docker.com/r/derekvasilich/docker-java/builds/)
 [![](https://images.microbadger.com/badges/image/derekvasilich/lamp.svg)](https://microbadger.com/images/derekvasilich/docker-java "derekvasilich/docker-java")
 
-A cutting edge Debian based Docker container with Node, Docker and Chrome support for automated testing of React, Angular and Vue UIs.
+A cutting edge Ubuntu Focal based Docker container with Java 17, Maven, Gradle, and Android SDKs.
 
 Installation from [Docker registry hub](https://registry.hub.docker.com/r/derekvasilich/docker-java/).
 ----
